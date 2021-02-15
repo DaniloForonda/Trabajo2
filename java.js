@@ -1,4 +1,4 @@
-var vec=["Diego","Maria","Jorge","Ana"];
+var vec=["Paulina","Sofia","Mateo","Sara"];
 console.log(vec);
 
 var si=function()
