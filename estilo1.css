@@ -1,0 +1,92 @@
+#id1{
+	width:400px;
+	height:350px;
+	position:relative;
+	left:-265px;
+	top:90px;
+	text-align: center;
+	background-color:#91A1AB;
+}
+
+#id2{
+	width:400px;
+	height:350px;
+	position:relative;
+	left:250px;
+	top:-260px;
+	text-align: center;
+	background-color:#91A1AB;
+}
+
+#b1{
+	background:#7E8A92;
+	width:75px;
+	height:35px;
+	border-radius:12px 5px;
+	font-size: 16px;
+	font-family:Calibri Light;
+}
+
+#b1:hover{
+	background:#8F9CA5;
+	width:85px;
+	height:45px;
+	border-radius:12px;
+	font-size: 19px;
+	font-family:Calibri Light;
+}
+
+#b2{
+	background:#7E8A92;
+	width:75px;
+	height:35px;
+	border-radius:12px 5px;
+	font-size: 16px;
+	font-family:Calibri Light;
+}
+
+#b2:hover{
+	background:#8F9CA5;
+	width:82px;
+	height:42px;
+	border-radius:12px;
+	font-size: 18px;
+	font-family:Calibri Light;
+}
+
+#nombre{
+	height:20px;
+	background-color:#B1C3CF;
+	border-radius:8px;
+}
+
+#nom{
+	height:20px;
+	background-color:#B1C3CF;
+	border-radius:8px;
+}
+
+#resp{
+	width:300px;
+	height:25px;
+	border:none;
+	background-color:#91A1AB;
+	font-family:Calibri Light;
+	font-size:17px;
+	text-align: center;
+}
+
+#id7 {
+    width:120px;
+    height:60px;
+    background-color:lightgray;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top:-130px;
+    right:8px;
+    font-family:Bahnschrift Light;
+    font-size:25px;
+}
